@@ -1,6 +1,6 @@
 first commit
 
-third test commit
+third commit
 
 fourth commit
 
