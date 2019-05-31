@@ -2,6 +2,6 @@ first commit
 
 third commit
 
-fourth commit
+fourth inline commit
 
 fifthe
